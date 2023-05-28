@@ -1,0 +1,16 @@
+server:
+  port:8080
+
+spring:
+  application:
+     name: blog-admin-api
+
+blog:
+  userdetails:
+    url: https://jsonplaceholder.typicode.com/users
+  userpost:
+    url: https://jsonplaceholder.typicode.com/posts
+
+logging:
+  level:
+    com.example: DEBUG
