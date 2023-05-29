@@ -21,7 +21,7 @@ Before running the application, make sure you have the following prerequisites i
 
 5. Access the API. 
     Once the application is running, you can access the API using the following URL in browser or in postman:
-    http://localhost:8080
+    http://localhost:8080/userPosts
     
 6. The Blog Admin API provides documentation using Swagger UI and Springdoc OpenAPI. To access the documentation, open the following URL in your web browser:
      http://localhost:8080/swagger-ui/index.html  
